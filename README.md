@@ -18,15 +18,15 @@
 <!-- Alternative: GIF-based Terminal Animation (uncomment to use) -->
 <!--
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/terminal-animation.gif" width="600"/>
+<img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/terminal-animation.gif" width="600"/>
 </div>
 -->
 
 <div align="center">
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d9ff)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=syukrifadzil&style=for-the-badge&color=00d9ff)
+[![GitHub followers](https://img.shields.io/github/followers/syukrifadzil?style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil)
 
 </div>
 
@@ -100,9 +100,9 @@
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -114,15 +114,15 @@
 <div align="center">
 
 <!-- GitHub Stats with Futuristic Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&icon_color=00ff88&bg_color=0d1117" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=00ff88&dates=888888&background=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syukrifadzil&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&icon_color=00ff88&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syukrifadzil&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=00ff88&dates=888888&background=0d1117" height="180"/>
 
 </div>
 
 <div align="center">
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syukrifadzil&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" height="180"/>
 
 </div>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=syukrifadzil&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -142,7 +142,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=00d9ff&area=true&area_color=00d9ff)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syukrifadzil&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=00d9ff&area=true&area_color=00d9ff)](https://github.com/syukrifadzil)
 
 </div>
 
