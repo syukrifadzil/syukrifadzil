@@ -1,192 +1,143 @@
+<!-- ░▒▓  animated matrix + glitch hero (self-hosted SVG, animates on GitHub)  ▓▒░ -->
+<div align="center">
+  <a href="https://github.com/syukrifadzil">
+    <img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/hero.svg?v=1" width="100%" alt="Syukri Fadzil — Data Engineer"/>
+  </a>
+</div>
+
 <div align="center">
 
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=820&height=80&lines=Data+Engineer;Kuala+Lumpur+based+%7C+AWS+Data+Lakes;I+turn+messy+data+into+pipelines...;...then+build+ML+side-projects+for+fun" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff88&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
-
-<!-- ═══════════════ BADGES ═══════════════ -->
-[![Location](https://img.shields.io/badge/Kuala_Lumpur-🇲🇾-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/syukrifadzil)
-![Profile Views](https://komarev.com/ghpvc/?username=syukrifadzil&style=for-the-badge&color=00d9ff&labelColor=0d1117)
-[![GitHub followers](https://img.shields.io/github/followers/syukrifadzil?style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil?tab=followers)
-[![Open to collab](https://img.shields.io/badge/Open_to-Collaboration-00ff88?style=for-the-badge&labelColor=0d1117)](mailto:msyukri_mf@yahoo.com)
+![Kuala Lumpur](https://img.shields.io/badge/📍_Kuala_Lumpur-0d1117?style=flat-square&labelColor=0d1117&color=00d9ff)
+![Profile Views](https://komarev.com/ghpvc/?username=syukrifadzil&style=flat-square&color=00ff88&label=visitors)
+[![Followers](https://img.shields.io/github/followers/syukrifadzil?style=flat-square&color=00ff88&labelColor=0d1117&label=followers)](https://github.com/syukrifadzil?tab=followers)
+[![Say hi](https://img.shields.io/badge/say_hi-→-ff2e6e?style=flat-square&labelColor=0d1117)](mailto:msyukri_mf@yahoo.com)
 
 </div>
 
----
+<br/>
 
-## 🌌 `whoami`
+## 👋 Hey, I'm Syukri
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name  = "Syukri Fadzil"
-        self.role  = "Data Engineer"
-        self.base  = "Kuala Lumpur, Malaysia 🇲🇾"
-        self.focus = "Cloud data lakes on AWS  ->  Power BI"
+I'm a **data engineer** in Kuala Lumpur. My day job is the unglamorous plumbing that keeps a cloud **data lake** alive — moving raw data through `transform → conform → enrich` until it's clean enough that people actually trust it in a dashboard.
 
-    @property
-    def day_job(self):
-        # raw -> transform -> conform -> enrich -> serve
-        return "I build the layers of a data lake and the pipelines between them"
+Off the clock I build things that scratch an itch: a forecasting model here, a stock-monitoring app there, a food app for when my friends and I can't decide where to eat. Honestly, half of them will never make a cent. I build them anyway, because that's how I learn the fun stuff — ML, time-series, shipping real apps.
 
-    @property
-    def after_hours(self):
-        return ["time-series ML", "quant research", "shipping small apps"]
-
-    def philosophy(self):
-        return "Without data, you're just another person with an opinion."
+```console
+syukri@kl ~ % whoami
+> data engineer by day, builder by night
+> i turn messy data into pipelines, then pipelines into dashboards people trust
+> currently obsessed with time-series forecasting & brutally honest ML
 ```
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/matrix-divider.svg?v=1" width="100%" alt=""/></div>
 
-## ⭐ `featured_projects` — the stuff I'm proud of
+## ⭐ Stuff I've built that I'm actually proud of
 
-<div align="center">
+### 🛒 [store-sales-forecasting](https://github.com/syukrifadzil/store-sales-forecasting)
 
-<a href="https://github.com/syukrifadzil/store-sales-forecasting">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=syukrifadzil&repo=store-sales-forecasting&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&bg_color=0d1117" />
-</a>
-<a href="https://github.com/syukrifadzil/stock-ml-monitor-dist">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=syukrifadzil&repo=stock-ml-monitor-dist&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&bg_color=0d1117" />
-</a>
+[![top language](https://img.shields.io/github/languages/top/syukrifadzil/store-sales-forecasting?style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/syukrifadzil/store-sales-forecasting)
+[![last commit](https://img.shields.io/github/last-commit/syukrifadzil/store-sales-forecasting?style=flat-square&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil/store-sales-forecasting/commits)
+[![stars](https://img.shields.io/github/stars/syukrifadzil/store-sales-forecasting?style=flat-square&logo=github&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil/store-sales-forecasting/stargazers)
+![CV RMSLE](https://img.shields.io/badge/CV_RMSLE-0.3855-ff2e6e?style=flat-square&labelColor=0d1117)
 
-</div>
+My take on the Kaggle **Store Sales** competition. Instead of training 1,782 tiny models, I trained **one global LightGBM** across every store-and-product series at once, with lag features that are careful not to peek into the future. I wrote it to be *read*, not just run — the docstrings explain the *why*. If you're learning time-series, this is a good place to poke around.
 
-**🛒 [store-sales-forecasting](https://github.com/syukrifadzil/store-sales-forecasting)** — my Kaggle *Store Sales* solution. One **global LightGBM** model across **1,782** store×family time series, leakage-safe lag features, and honest baselines. **CV RMSLE 0.3855.** Written to be *read* as much as run — the docstrings explain the *why*, not just the *what*.
 > ⭐ Star it if you like clean, well-documented ML.
 
-**📈 [Pantau](https://github.com/syukrifadzil/stock-ml-monitor-dist)** *(pantau = "to monitor" in Malay)* — a cross-platform desktop dashboard for a **Bursa Malaysia** price-direction research model. What makes it different: it puts every signal next to the accuracy it would *need* to be worth trading, and **tells you honestly when it has no edge.** Transparency over hype.
-> 💾 Cross-platform installers live in **Releases** (macOS · Windows · Linux).
+### 📈 [Pantau](https://github.com/syukrifadzil/stock-ml-monitor-dist) &nbsp;<sub>*(pantau = "to monitor" in Malay)*</sub>
 
----
+[![release](https://img.shields.io/github/v/release/syukrifadzil/stock-ml-monitor-dist?style=flat-square&label=release&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil/stock-ml-monitor-dist/releases/latest)
+![platforms](https://img.shields.io/badge/macOS_·_Windows_·_Linux-0d1117?style=flat-square&color=00d9ff&labelColor=0d1117)
+[![last commit](https://img.shields.io/github/last-commit/syukrifadzil/stock-ml-monitor-dist?style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/syukrifadzil/stock-ml-monitor-dist/commits)
+![honest](https://img.shields.io/badge/signals-brutally_honest-ff2e6e?style=flat-square&labelColor=0d1117)
 
-## 🧪 `in_the_lab` — currently cooking
+A desktop app that watches a **Bursa Malaysia** price-direction model — and it's stubbornly honest. Every signal sits right next to the accuracy it would *need* to be worth trading, and the app will tell you to your face when the edge just isn't there. A research tool, not a hype machine. Installers for all three platforms are in **Releases**.
+
+> 💾 macOS · Windows · Linux — grab the latest build and try it.
+
+<div align="center"><img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/matrix-divider.svg?v=1" width="100%" alt=""/></div>
+
+## 🧪 On my workbench right now
+
+A few things not quite ready for the world yet:
 
 ```text
-🍜  makan-app ............ a KL food-discovery app (TypeScript / React)
-🛰️  personal-risk-radar .. a personal-finance risk radar (Python)
-📊  stock-ml-monitor ..... the research engine behind Pantau
+🍜  makan-app ........... a KL food-discovery app, for the eternal "where do we eat?" debate
+🛰️  personal-risk-radar . a personal-finance early-warning system
+📊  stock-ml-monitor ..... the research engine that feeds Pantau
 ```
-<sub>Private for now — public write-ups coming. Follow to catch them when they drop.</sub>
 
----
+<sub>Private for now — follow along and you'll catch them the moment they go public.</sub>
 
-## 🛠️ `what_i_actually_do` — data-lake engineering
+<div align="center"><img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/matrix-divider.svg?v=1" width="100%" alt=""/></div>
 
-<div align="center">
+## 🛠️ What I actually do all day
 
-| Layer | I build & own |
-|:--|:--|
-| 🌊 **Ingest** | `raw` landing + **watermark-driven incremental loads** (DynamoDB high-watermarks) so pipelines only touch new data |
-| ⚙️ **Process** | `transform -> conform -> enrich` in **Glue / PySpark**, orchestrated by **Step Functions + Lambda** |
-| 🔎 **Serve** | curated, query-fast datasets in **Athena** feeding **Power BI** dashboards |
-| 🧭 **Keep it honest** | reconciliation, record-by-record comparisons, and root-cause digging when feeds disagree |
+Picture a data lake as a line of filters, each one making the data a little cleaner and more useful:
 
-</div>
+```mermaid
+flowchart LR
+    A["raw"] --> B["transform"] --> C["conform"] --> D["enrich"] --> E["serve → Power BI"]
+    style A fill:#0d1117,stroke:#ff2e6e,color:#e6f1ff
+    style B fill:#0d1117,stroke:#00d9ff,color:#e6f1ff
+    style C fill:#0d1117,stroke:#00d9ff,color:#e6f1ff
+    style D fill:#0d1117,stroke:#00d9ff,color:#e6f1ff
+    style E fill:#0d1117,stroke:#00ff88,color:#e6f1ff
+```
 
----
+I build and babysit those stages: **watermark-driven loads** so nothing gets processed twice, **Glue / PySpark** for the heavy lifting, **Step Functions + Lambda** to orchestrate it, **Athena** to query it, and **Power BI** on top so the business sees numbers they can trust. When two feeds disagree, I'm the one doing the record-by-record detective work to find out why.
 
-## ⚡ `tech_stack`
+### The toolbox
 
-<div align="center">
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d9ff)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=amazonredshift&logoColor=00ff88)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-### Data &amp; ML
-![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d9ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logo=leaflet&logoColor=00ff88)
 ![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-### AWS Data Platform
-![Amazon S3](https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+<br/>
 ![AWS Glue](https://img.shields.io/badge/Glue-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Athena](https://img.shields.io/badge/Athena-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00d9ff)
-![Step Functions](https://img.shields.io/badge/Step_Functions-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF4F8B)
-![AWS Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
+![Step Functions](https://img.shields.io/badge/Step_Functions-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=ff2e6e)
+![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
-
-### Analytics &amp; Apps
+<br/>
+![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d9ff)
+![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logo=leaflet&logoColor=00ff88)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-
-### Tooling
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/matrix-divider.svg?v=1" width="100%" alt=""/></div>
 
----
-
-## 🐍 `contribution_matrix`
+## 🐍 My commits, eaten by a snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syukrifadzil&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=ff2e6e&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=00ff88&dates=888888&background=0d1117" height="165" alt="streak"/>
 
-## 📊 `system_metrics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syukrifadzil&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syukrifadzil&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=00ff88&dates=888888&background=0d1117" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syukrifadzil&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syukrifadzil&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=ff2e6e&area=true&area_color=00d9ff" width="100%" alt="activity graph"/>
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/matrix-divider.svg?v=1" width="100%" alt=""/></div>
 
-## 🏆 `achievements`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=syukrifadzil&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syukrifadzil&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=00d9ff&area=true&area_color=00d9ff)](https://github.com/syukrifadzil)
-
-</div>
-
----
-
-## 🔗 `connect`
+## 📡 Come say hi
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/syukrifadzil)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:msyukri_mf@yahoo.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://github.com/syukrifadzil/store-sales-forecasting)
+[![Projects](https://img.shields.io/badge/Browse_my_repos-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/syukrifadzil?tab=repositories)
 
-</div>
+<br/>
 
-<div align="center">
-
-```
-"The goal is to turn data into information, and information into insight."
-                                                    — Carly Fiorina
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<sub>⚡ Thanks for stopping by — pick a project above and dive in.</sub>
+<sub>Thanks for scrolling this far. Pick a project up top and poke around — and if you're building something in data or ML, my inbox is open. 🟢</sub>
 
 </div>
