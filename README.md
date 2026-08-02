@@ -1,104 +1,138 @@
 <div align="center">
 
-<!-- Futuristic Header with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%F0%9F%9A%80+DATA+ENGINEER+%7C+BIG+DATA+ARCHITECT;Transforming+Raw+Data+into+Strategic+Insights" alt="Typing SVG" />
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=820&height=80&lines=Data+Engineer;Kuala+Lumpur+based+%7C+AWS+Data+Lakes;I+turn+messy+data+into+pipelines...;...then+build+ML+side-projects+for+fun" alt="Typing SVG" />
 
-<!-- Futuristic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff88&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff88&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
-</div>
-
-<!-- Animated Matrix-style Introduction -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=200&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82+%3E+INITIALIZING+DATA_ENGINEER.exe...++++++++++++++++++++++%E2%94%82;%E2%94%82+%3E+LOADING+MODULES%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+++++++++%E2%94%82;%E2%94%82+%3E+STATUS%3A+ONLINE+%E2%9C%93+++++++++++++++++++++++++++++++++++++%E2%94%82;%E2%94%82+%3E+MISSION%3A+Transform+chaos+into+clarity++++++++++++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="Matrix Terminal Animation" />
-
-</div>
-
-<!-- Alternative: GIF-based Terminal Animation (uncomment to use) -->
-<!--
-<div align="center">
-<img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/terminal-animation.gif" width="600"/>
-</div>
--->
-
-<div align="center">
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=syukrifadzil&style=for-the-badge&color=00d9ff)
-[![GitHub followers](https://img.shields.io/github/followers/syukrifadzil?style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil)
+<!-- ═══════════════ BADGES ═══════════════ -->
+[![Location](https://img.shields.io/badge/Kuala_Lumpur-🇲🇾-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/syukrifadzil)
+![Profile Views](https://komarev.com/ghpvc/?username=syukrifadzil&style=for-the-badge&color=00d9ff&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/syukrifadzil?style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/syukrifadzil?tab=followers)
+[![Open to collab](https://img.shields.io/badge/Open_to-Collaboration-00ff88?style=for-the-badge&labelColor=0d1117)](mailto:msyukri_mf@yahoo.com)
 
 </div>
 
 ---
 
-## 🌌 `> ABOUT_ME.json`
+## 🌌 `whoami`
 
-```json
-{
-  "name": "Syukri Fadzil",
-  "role": "Data Engineer",
-  "location": "Earth, Milky Way",
-  "current_mission": "Building scalable data pipelines that power the future",
-  "expertise": [
-    "Distributed Computing",
-    "ETL/ELT Pipelines",
-    "Data Lake Architecture",
-    "Real-time Streaming",
-    "Cloud Data Platforms"
-  ],
-  "philosophy": "Data is the new oil, but only if refined properly"
-}
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name  = "Syukri Fadzil"
+        self.role  = "Data Engineer"
+        self.base  = "Kuala Lumpur, Malaysia 🇲🇾"
+        self.focus = "Cloud data lakes on AWS  ->  Power BI"
+
+    @property
+    def day_job(self):
+        # raw -> transform -> conform -> enrich -> serve
+        return "I build the layers of a data lake and the pipelines between them"
+
+    @property
+    def after_hours(self):
+        return ["time-series ML", "quant research", "shipping small apps"]
+
+    def philosophy(self):
+        return "Without data, you're just another person with an opinion."
 ```
 
 ---
 
-## ⚡ `> TECH_STACK.exe`
+## ⭐ `featured_projects` — the stuff I'm proud of
 
 <div align="center">
 
-### 🔮 Core Technologies
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d9ff)
-![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff88)
-![Scala](https://img.shields.io/badge/Scala-0d1117?style=for-the-badge&logo=scala&logoColor=DC322F)
+<a href="https://github.com/syukrifadzil/store-sales-forecasting">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=syukrifadzil&repo=store-sales-forecasting&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&bg_color=0d1117" />
+</a>
+<a href="https://github.com/syukrifadzil/stock-ml-monitor-dist">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=syukrifadzil&repo=stock-ml-monitor-dist&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&bg_color=0d1117" />
+</a>
 
-### 🌊 Big Data Ecosystem
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=00d9ff)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=00ff88)
-![Hadoop](https://img.shields.io/badge/Hadoop-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
-![Hive](https://img.shields.io/badge/Hive-0d1117?style=for-the-badge&logo=apachehive&logoColor=FDEE21)
+</div>
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+**🛒 [store-sales-forecasting](https://github.com/syukrifadzil/store-sales-forecasting)** — my Kaggle *Store Sales* solution. One **global LightGBM** model across **1,782** store×family time series, leakage-safe lag features, and honest baselines. **CV RMSLE 0.3855.** Written to be *read* as much as run — the docstrings explain the *why*, not just the *what*.
+> ⭐ Star it if you like clean, well-documented ML.
 
-### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-0d1117?style=for-the-badge&logo=delta&logoColor=00ADD8)
+**📈 [Pantau](https://github.com/syukrifadzil/stock-ml-monitor-dist)** *(pantau = "to monitor" in Malay)* — a cross-platform desktop dashboard for a **Bursa Malaysia** price-direction research model. What makes it different: it puts every signal next to the accuracy it would *need* to be worth trading, and **tells you honestly when it has no edge.** Transparency over hype.
+> 💾 Cross-platform installers live in **Releases** (macOS · Windows · Linux).
 
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+---
+
+## 🧪 `in_the_lab` — currently cooking
+
+```text
+🍜  makan-app ............ a KL food-discovery app (TypeScript / React)
+🛰️  personal-risk-radar .. a personal-finance risk radar (Python)
+📊  stock-ml-monitor ..... the research engine behind Pantau
+```
+<sub>Private for now — public write-ups coming. Follow to catch them when they drop.</sub>
+
+---
+
+## 🛠️ `what_i_actually_do` — data-lake engineering
+
+<div align="center">
+
+| Layer | I build & own |
+|:--|:--|
+| 🌊 **Ingest** | `raw` landing + **watermark-driven incremental loads** (DynamoDB high-watermarks) so pipelines only touch new data |
+| ⚙️ **Process** | `transform -> conform -> enrich` in **Glue / PySpark**, orchestrated by **Step Functions + Lambda** |
+| 🔎 **Serve** | curated, query-fast datasets in **Athena** feeding **Power BI** dashboards |
+| 🧭 **Keep it honest** | reconciliation, record-by-record comparisons, and root-cause digging when feeds disagree |
 
 </div>
 
 ---
 
-## 🐍 `> CONTRIBUTION_MATRIX.snake`
+## ⚡ `tech_stack`
 
 <div align="center">
 
-<!-- Snake Animation -->
+### Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d9ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=amazonredshift&logoColor=00ff88)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+### Data &amp; ML
+![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d9ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logo=leaflet&logoColor=00ff88)
+![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+### AWS Data Platform
+![Amazon S3](https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![AWS Glue](https://img.shields.io/badge/Glue-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Athena](https://img.shields.io/badge/Athena-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00d9ff)
+![Step Functions](https://img.shields.io/badge/Step_Functions-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF4F8B)
+![AWS Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
+
+### Analytics &amp; Apps
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+
+### Tooling
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+
+---
+
+## 🐍 `contribution_matrix`
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/output/github-snake.svg" />
@@ -109,38 +143,24 @@
 
 ---
 
-## 📊 `> SYSTEM_METRICS.dashboard`
+## 📊 `system_metrics`
 
 <div align="center">
 
-<!-- GitHub Stats with Futuristic Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=syukrifadzil&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&icon_color=00ff88&bg_color=0d1117" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syukrifadzil&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=00ff88&dates=888888&background=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syukrifadzil&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&icon_color=00ff88&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syukrifadzil&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=00ff88&dates=888888&background=0d1117" height="170"/>
 
-</div>
-
-<div align="center">
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syukrifadzil&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syukrifadzil&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
 
 </div>
 
 ---
 
-## 🏆 `> ACHIEVEMENTS.unlock`
+## 🏆 `achievements`
 
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=syukrifadzil&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 `> ACTIVITY_GRAPH.render`
-
-<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syukrifadzil&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=00d9ff&area=true&area_color=00d9ff)](https://github.com/syukrifadzil)
 
@@ -148,35 +168,25 @@
 
 ---
 
-## 🔗 `> CONNECT.establish`
+## 🔗 `connect`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/syukrifadzil)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:msyukri_mf@yahoo.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://github.com/syukrifadzil/store-sales-forecasting)
 
 </div>
-
----
-
-## 💡 `> RANDOM_DATA_QUOTE.fetch`
 
 <div align="center">
 
 ```
-"Without data, you're just another person with an opinion."
-                                        — W. Edwards Deming
+"The goal is to turn data into information, and information into insight."
+                                                    — Carly Fiorina
 ```
-
-</div>
-
----
-
-<!-- Futuristic Footer -->
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<sub>🚀 Built with passion for data | Last updated: <!-- Update this date --> 2025</sub>
+<sub>⚡ Thanks for stopping by — pick a project above and dive in.</sub>
 
 </div>
