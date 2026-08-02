@@ -120,9 +120,7 @@ I build and babysit those stages: **watermark-driven loads** so nothing gets pro
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syukrifadzil&theme=transparent&hide_border=true&stroke=00d9ff&ring=00ff88&fire=ff2e6e&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=00ff88&dates=888888&background=0d1117" height="165" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syukrifadzil&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00ff88&point=ff2e6e&area=true&area_color=00d9ff" width="100%" alt="activity graph"/>
+<img src="https://raw.githubusercontent.com/syukrifadzil/syukrifadzil/main/assets/terminal.svg?v=1" width="100%" alt="status readout"/>
 
 </div>
 
